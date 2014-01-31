@@ -14,15 +14,21 @@ Mouse: No changes, act as normal mouse<br>
 etc..<br>
 
 The only changes are:<br>
-'+' became '+' so it will increase volume on  XBMC<br>
-'-' became '-' so it will decrese volume on XBMC<br>
-'Light' became c so it will act as information on XBMC<br>
-'Speaker' will be bar so it will pause/unpause on XBMC<br>
-'The key behind -' (don't know name) will be esc<br>
-'Telefone up' will be Backspace<br>
-'Telephone down' will be Tab<br>
+'+' became '+' so it will <b>increase volume</b> on  XBMC<br>
+'-' became '-' so it will <b>decrese volume</b> on XBMC<br>
+'Light' became c so it will act as <b>information</b> on XBMC<br>
+'Speaker' will be bar so it will <b>pause/unpause</b> on XBMC<br>
+'The key behind -' (don't know name) will be <b>esc</b><br>
+'Telefone up' will be <b>Backspace</b><br>
+'Telephone down' will be <b>Tab</b><br>
+<< and >> will be as they should be, <b>fast back</b> and <b>fast forward</b>.
+'House' will be <b>top</b><br>
 
-If you have better ideas let me know and I recompile the exes<br>
+So with this app the XBMC will not require any modification or special extension and your system not need any driver modification.<br>The app can left on since it will not interfere and not uses resources.
+
+
+If you have better ideas about mapping let me know and I make changes and recompile the exes<br>
 
 Note:<br>
-There's 2 executables, one for 32 bit systems and one for 64 bit systems, no Apple support, never, so don't ask!<br>
+There's 2 executables, one for 32 bit systems and one for 64 bit Wint systems, NO Apple support, never, so don't ask!<br>
+Checked and works perfect on Win32 bit and Win64 (windows7).

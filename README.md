@@ -14,13 +14,13 @@ Mouse: No changes, act as normal mouse<br>
 etc..<br>
 
 The only changes are:<br>
-+ became + so it will increase volume on  XBMC<br>
-- became - so it will decrese volume on XBMC<br>
-Light became c so it will act as information on XBMC<br>
-Speaker will be bar so it will pause/unpause on XBMC<br>
-The key behind - (don't know name) will be esc<br>
-Telefone up will be Backspace<br>
-Telephone down will be Tab<br>
+'+' became '+' so it will increase volume on  XBMC<br>
+'-' became '-' so it will decrese volume on XBMC<br>
+'Light' became c so it will act as information on XBMC<br>
+'Speaker' will be bar so it will pause/unpause on XBMC<br>
+'The key behind -' (don't know name) will be esc<br>
+'Telefone up' will be Backspace<br>
+'Telephone down' will be Tab<br>
 
 If you have better ideas let me know and I recompile the exes<br>
 

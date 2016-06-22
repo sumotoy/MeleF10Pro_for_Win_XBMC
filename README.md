@@ -36,3 +36,5 @@ Checked and works perfect on Win32 bit and Win64 (windows7).
 Update 1/6/2014:
 I continue receive requests for an Apple version of this app but as I said I will never write this app for Apple, sorry.
 I have a couple of Apple stuff but I will never help a company that not support developers and build the most obsolete computers in the history, I know, we can discuss for years about that but this is what I'm think about. I will release the linux version soon but will never work with apple because it relies on frameworks that apple avoid and will never use and of course it will check for apple ones.
+
+Licence: GNU
